@@ -9,4 +9,7 @@ Müşterileri ilgili analiz dönemi içerisinde 3 ayrı veriye bakarak 1 ile 5 a
 · Monetary (parasal değer alışveriş tutarı * adetler)
 Hemen kolları sıvayıp veri setini indirelim ; ben OnlineStoreii setine uyarladığım anonimleştirilmek üzere manipüle edilmiş farklı bir veri setini kullanacağım.
 
+![0686bef-Screenshot_2023-10-03_at_12 37 19](https://github.com/user-attachments/assets/17226671-8857-4d53-ba0e-56623d6dbb96)
+
+
 Veri seti Californiya üniversitesinin sitesinden :  https://archive.ics.uci.edu/dataset/502/online+retail+ii
