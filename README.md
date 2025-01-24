@@ -1,4 +1,4 @@
-# CRMAnalytics
+# RFM_Analytics
 
 SQL ile RFM Müşteri Segmentasyonu
 Bir işletmenin müşterilerinin hızlandırılmış şekilde kapıdan içeri girişlerini izlediğinizi hayal edin. Her bir müşteri geliyor, bir şeyler alıyor ve çıkıyor, kimin ilk gelişi, kim en iyi müşterimiz, kim sık geliyor ama tüm ihtiyacını buradan karşılamıyor, yeni yeni alışmaya başlıyor, kimi kaybetmek üzereyiz ve kimin son alışverişi bundan sonra gelmeyecek.
